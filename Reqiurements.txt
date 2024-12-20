@@ -1,0 +1,6 @@
+Pandas Version: 2.2.2
+NumPy Version: 1.26.4
+Matplotlib Version: 3.8.0
+Seaborn Version: 0.13.2
+Scikit-learn Version: 1.5.2
+XGBoost Version: 2.1.3
